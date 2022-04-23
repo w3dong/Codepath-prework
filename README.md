@@ -63,8 +63,7 @@ I overcame this challenge by searching through credible online sources, like sta
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](https://ucsd.zoom.us/rec/share/3fi398hoXoGzKKPVckj6PTT_-yP87sqZf4kp1O5XOp9DMjGEnFw2gbc1BDXFEhbr.Xa3w7Mo7Mo1z1Pg0?startTime=1650682834000
-Passcode: =^xDc&41)
+[My 5-minute Interview Recording](https://ucsd.zoom.us/rec/share/3fi398hoXoGzKKPVckj6PTT_-yP87sqZf4kp1O5XOp9DMjGEnFw2gbc1BDXFEhbr.Xa3w7Mo7Mo1z1Pg0?startTime=1650682834000)
 
 
 ## License
