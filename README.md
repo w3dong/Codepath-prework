@@ -6,7 +6,7 @@ Submitted by: **Weiwen Dong**
 
 Time spent: **3** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (https://glitch.com/edit/#!/comfortable-thunder-wax)
 
 ## Required Functionality
 
